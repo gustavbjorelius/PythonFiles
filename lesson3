@@ -1,0 +1,19 @@
+functions 
+make functions as small as you can 
+python built in functions
+python standard library 
+
+def func_name(formell_parameter1, formell_parameter2):
+    """ documentation string (optional) """
+    # func body
+
+    var = xyz # the scope is the function 
+
+local variable 
+
+you can define global via prepending 'global' 
+
+if you have an imported module, you need to 
+    print('stuff goes to the right', file_name_where_func_is_defined.the_func_to_call())
+
+
