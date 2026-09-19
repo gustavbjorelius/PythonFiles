@@ -2,12 +2,23 @@ age = 21
 print(f"{age=}")
 # age=21
 
+for i in range(3):
+    print(f'{i=}', end=' ')
+
+x = 10
+y = 5
+print(f"{x=}, {y=}, {x+y=}")
+# x=10, y=5, x+y=15
+
+
 price = 19.956
-print(f"{price=:.2f}")
+print(f"{price = :.2f}")
 # price=19.96
 
+exit()
 name = "Gustav"
 print(f"{name!r}")
+# meant for debugging 
 # 'Gustav'
 # ? 
 

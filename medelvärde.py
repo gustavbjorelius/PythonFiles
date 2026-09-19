@@ -11,7 +11,7 @@ mini = user_input
 while user_input != 0:
 
     if user_input > maxi:
-    maxi = user_input
+        maxi = user_input
     if user_input < mini:
         mini = user_input
         antal_tal += 1

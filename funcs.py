@@ -14,6 +14,8 @@ def celsius_to_fahrenheit(temp):
 def bmi(weight, height):
     return weight / height**2 
 
+weight = int(input( 
+h = int(input(
 print(add(1,2))
 print(sub(6,100))
 print(avg2(1000,2))
